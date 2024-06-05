@@ -24,7 +24,15 @@ func main() {
     fmt.Println(!(4 == 4))
 }
 
-/*This code presents a range of operations, including string concatenation, 
-integer addition, floating-point division, 
-and logical operations that involve comparisons and the NOT operator. 
-The output is adjusted to incorporate numbers.*/
+/*
+
+# Output
+
+GO Number
+2+2 = 4
+10.0/2.0 = 5
+true
+false
+false
+
+*/
