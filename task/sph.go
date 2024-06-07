@@ -26,7 +26,7 @@ type Jet struct {
 
 // Implement the Fly method for Jet
 func (j Jet) Fly() string {
-    return "Zoom!"
+    return "Zooom!"
 }
 
 // PropellerPlane struct
