@@ -1,18 +1,18 @@
 # Documentation:
 
 
-## Getting Started
+## Getting Started:
 ---------------
 
-### Installing Go
+### Installing Go:
 
 To install Go, follow the instructions on the official Go website: <https://golang.org/dl/>
 
-### Running Go Programs
+### Running Go Program:
 
 To run a Go program, save the code in a file with a `.go` extension (e.g., `main.go`) and use the `go run` command.
 
-### Example
+### Example:
 
 **main.go**
 ```go
@@ -25,15 +25,18 @@ func main() {
 }
 
 ```
-## Running the Program
+## Running the Program:
 ---------------
 ```
 $ go run main.go
 ```
-## Output
+## Output:
 ```
 hello world
 ```
+
+
+
 
 
 
