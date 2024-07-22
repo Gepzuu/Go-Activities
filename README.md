@@ -1,5 +1,5 @@
-# Go Documentation
-=====================
+# Documentation:
+
 
 ## Getting Started
 ---------------
@@ -23,3 +23,26 @@ import "fmt"
 func main() {
     fmt.Println("hello world")
 }
+
+```
+## Running the Program
+---------------
+```
+$ go run main.go
+```
+## Output
+```
+hello world
+```
+
+
+
+
+
+
+
+
+
+
+
+
